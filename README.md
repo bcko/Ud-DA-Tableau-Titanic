@@ -120,5 +120,3 @@ This is one of the strongest projects you've worked on so far, so make sure to a
 To diversify your data science portfolio, start pursuing personal projects. This shows you're passionate and allows you to refine and continue building your skills. A great way to start is downloading a [dataset from Kaggle](https://www.kaggle.com/datasets). Start by exploring the dataset, as you did in the Explore and Summarize Data project.
 
 Then, test a hypothesis or apply some machine learning. For a bigger challenge, take on a [Kaggle competition](https://www.kaggle.com/competitions) sponsored by a company. If you are entering the data science field for the first time and looking to add real-world experience into your belt, you can get it through Kaggle!
-
-You have not submitted the project yetSUBMIT PROJECT
