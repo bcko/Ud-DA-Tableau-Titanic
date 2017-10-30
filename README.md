@@ -86,3 +86,39 @@ Your goal is to build evidence that you have shared your visualization, received
 
 ### Step Seven - Review
 Use the [Project Rubric](https://review.udacity.com/#!/rubrics/948/view) to review your project. If you are happy with your submission, then you’re ready to submit your project. If you see room for improvement, keep working to improve your project!
+
+## Project Submission
+Create a data visualization that tells a story or highlights trends or patterns in a data set. Use Tableau to create the visualization. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
+
+### Evaluation
+Use the [Project Rubric](https://review.udacity.com/#!/rubrics/948/view) to review your project. If you are happy with your submission, then you are ready to submit! If you see room for improvement in **any** category in which you do not meet specifications, keep working!
+
+Your project will be evaluated by a Udacity reviewer according to the same [Project Rubric](https://review.udacity.com/#!/rubrics/948/view). Your project must "Meet Specifications" in each category in order for your submission to pass.
+
+### Reminders
+* Your visualization work should use Tableau: other visualization tools may not be evaluatable by reviewers.
+* Remember that your visualization should be explanatory in nature and communicate specific results that you want to show.
+
+### Submission
+Ready to submit your project? Click on the "Submit Project" button or go back to your Udacity Home and click on the project, then follow the instructions to submit! Make sure you include the following files and information:
+
+* A PDF or Markdown write up that includes the following sections:
+ * links to the first version of your story (e.g. story_v1) and final version of your story (e.g. story_final)
+ * Summary: brief description of the visualization and the main story or findings conveyed
+ * Design: explain any design choices you made including changes to the visualization after collecting feedback
+ * Feedback: feedback received from others from the first sketch to the final visualization
+ * Resources: list of Web sites, books, forums, blog posts, GitHub repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources).
+* The final data set file used for the graphic (usually .csv)
+
+It can take us up to a week to grade this project, but in most cases it is much faster. You will receive an email when your submission has been reviewed.
+
+If you are having any problems submitting your project or wish to check on the status of your submission, please email us at dataanalyst-project@udacity.com.
+
+### What's Next?
+This is one of the strongest projects you've worked on so far, so make sure to add it to both your resume and LinkedIn. You must continue building your data portfolio. If you were in a job interview three months from now, do you want to say you last worked on a data project three months ago or last week?
+
+To diversify your data science portfolio, start pursuing personal projects. This shows you're passionate and allows you to refine and continue building your skills. A great way to start is downloading a [dataset from Kaggle](https://www.kaggle.com/datasets). Start by exploring the dataset, as you did in the Explore and Summarize Data project.
+
+Then, test a hypothesis or apply some machine learning. For a bigger challenge, take on a [Kaggle competition](https://www.kaggle.com/competitions) sponsored by a company. If you are entering the data science field for the first time and looking to add real-world experience into your belt, you can get it through Kaggle!
+
+You have not submitted the project yetSUBMIT PROJECT
