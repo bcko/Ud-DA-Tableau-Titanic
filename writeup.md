@@ -1,5 +1,5 @@
 # Create a Tableau Story Titanic Data
-
+[Tableau Story from Titanic Data](https://public.tableau.com/profile/byungcheon.ko#!/vizhome/TitanicSurvival_8/SurvivalStory)
 ## Summary
 Titanic data contains demographics and passenger information from a subset of the 2224 passengers and crew on board the Titanic. I will create a visualization that shows the demographics or passenger information between those passengers who survived and those who died.
 
