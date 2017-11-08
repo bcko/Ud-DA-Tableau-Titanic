@@ -4,8 +4,8 @@
 Titanic data contains demographics and passenger information from a subset of the 2224 passengers and crew on board the Titanic. I will create a visualization that shows the demographics or passenger information between those passengers who survived and those who died.
 
 ## Design
-
-
+* I looked at how each factor(Gender, Ticket Class, Age Group, Embarked from) affect survival rate of the passenger. 
+* I used a bar graph to show the difference. 
 
 ## Feedback
 * In Survived visualization, display AVG(Survived) instead of SUM(Survived)
