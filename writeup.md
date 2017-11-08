@@ -20,8 +20,4 @@ Titanic data contains demographics and passenger information from a subset of th
 
 
 ## Data Files
-### Overview
-
-
-### Notes
-Create a visualization that shows the demographics or passenger information between those passengers who survived and those who died
+[Titanic Data](https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59d54e6d_titanic-data/titanic-data.csv&sa=D&ust=1510126640638000&usg=AFQjCNEjDygDOQLtgGE8sTgjyLhQ6SAg4Q)
