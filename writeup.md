@@ -12,7 +12,6 @@ Titanic data contains demographics and passenger information from a subset of th
 
 
 ## Feedback
-* In Survived visualization, display AVG(Survived) instead of SUM(Survived)
 * In Age visualization, group ages
 * In Embarked visualization, remove Null value
 * In Survived visualization, change 0 to dead and 1 to alive
