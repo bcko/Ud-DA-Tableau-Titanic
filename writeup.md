@@ -1,5 +1,6 @@
 # Create a Tableau Story Titanic Data
 [Initial: Tableau Story from Titanic Data](https://public.tableau.com/profile/byungcheon.ko#!/vizhome/Titanicinitial_0/Story1)
+
 [Final: Tableau Story from Titanic Data](https://public.tableau.com/profile/byungcheon.ko#!/vizhome/TitanicSurvival_8/SurvivalStory)
 
 
