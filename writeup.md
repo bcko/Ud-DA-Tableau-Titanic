@@ -24,9 +24,9 @@ Titanic data contains demographics and passenger information from a subset of th
 * In Pclass visualization, isn't it better to display percentage of people survived for each ticket class?
   * I changed Y-axis to display AVG(Survived) instead of SUM(Survived)
 * I think more explanations are helpful
- * In captions, I put more explanations.
+  * In captions, I put more explanations.
 * Gender Graph looks too thin
- * I adjusted Gender graph to fit better on screen
+  * I adjusted Gender graph to fit better on screen
 * In your “Design” section please also explain: How did you make your initial visualization decisions? Please justify your decisions of the chart types, legends, etc in the visualization. For example, you can say "I chose bar charts for reasons A and B ..."
   * I changed Design section of the writeup
 * Your visualizations are great. In order to evaluate this section we also need to compare your initial design to final design (after feedback revision) therefore for the next submission, please include 2 links in your write-up, one for the initial design and one for the final version and also please document the changes you've made more in detail in the write-up. For example, you can say based on Feedback "A", I decided to change the plot's type or any other modifications that you have made. We basically want to see how did you improve your project base on the received feedbacks.
